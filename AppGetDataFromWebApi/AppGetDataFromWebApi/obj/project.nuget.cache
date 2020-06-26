@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ovmVoxg5wSMqsRo+JYYUhwyAy4YML1iq08FYhLmELRFnbANPT5mHMwKaXOWCLBcfhnyBipJsdJdviHLZOzvlNA==",
+  "dgSpecHash": "etYXCprv0jXWrFFVIQVO5C/N7LmY4XwIY+0128Oe7B6XBzl7NIXsQGlblVyKrAaUXJHv1QVXGIwjIFQfucEIuA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pc\\source\\repos\\AppGetDataFromWebApi\\AppGetDataFromWebApi\\AppGetDataFromWebApi\\AppGetDataFromWebApi.csproj",
+  "projectFilePath": "C:\\prjS\\_xamarinPrjs\\xamAppGetDataFromWebApi\\AppGetDataFromWebApi\\AppGetDataFromWebApi\\AppGetDataFromWebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pc\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

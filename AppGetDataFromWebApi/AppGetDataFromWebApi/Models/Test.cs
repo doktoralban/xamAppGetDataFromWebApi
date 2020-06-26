@@ -7,7 +7,7 @@ namespace AppGetDataFromWebApi.Models
     public  class Test
     {
 
-    public int XProductID { get; set; }
+    public int XProductIDYZ { get; set; }
     public string  XProductName { get; set; }
     public decimal XUnitPrice { get; set; }
 

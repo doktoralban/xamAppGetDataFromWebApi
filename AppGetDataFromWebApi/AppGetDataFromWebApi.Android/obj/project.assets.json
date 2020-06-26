@@ -2016,11 +2016,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pc\\source\\repos\\AppGetDataFromWebApi\\AppGetDataFromWebApi\\AppGetDataFromWebApi.Android\\AppGetDataFromWebApi.Android.csproj",
+      "projectUniqueName": "C:\\prjS\\_xamarinPrjs\\xamAppGetDataFromWebApi\\AppGetDataFromWebApi\\AppGetDataFromWebApi.Android\\AppGetDataFromWebApi.Android.csproj",
       "projectName": "AppGetDataFromWebApi.Android",
-      "projectPath": "C:\\Users\\pc\\source\\repos\\AppGetDataFromWebApi\\AppGetDataFromWebApi\\AppGetDataFromWebApi.Android\\AppGetDataFromWebApi.Android.csproj",
+      "projectPath": "C:\\prjS\\_xamarinPrjs\\xamAppGetDataFromWebApi\\AppGetDataFromWebApi\\AppGetDataFromWebApi.Android\\AppGetDataFromWebApi.Android.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pc\\source\\repos\\AppGetDataFromWebApi\\AppGetDataFromWebApi\\AppGetDataFromWebApi.Android\\obj\\",
+      "outputPath": "C:\\prjS\\_xamarinPrjs\\xamAppGetDataFromWebApi\\AppGetDataFromWebApi\\AppGetDataFromWebApi.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2043,8 +2043,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\pc\\source\\repos\\AppGetDataFromWebApi\\AppGetDataFromWebApi\\AppGetDataFromWebApi\\AppGetDataFromWebApi.csproj": {
-              "projectPath": "C:\\Users\\pc\\source\\repos\\AppGetDataFromWebApi\\AppGetDataFromWebApi\\AppGetDataFromWebApi\\AppGetDataFromWebApi.csproj"
+            "C:\\prjS\\_xamarinPrjs\\xamAppGetDataFromWebApi\\AppGetDataFromWebApi\\AppGetDataFromWebApi\\AppGetDataFromWebApi.csproj": {
+              "projectPath": "C:\\prjS\\_xamarinPrjs\\xamAppGetDataFromWebApi\\AppGetDataFromWebApi\\AppGetDataFromWebApi\\AppGetDataFromWebApi.csproj"
             }
           }
         }
