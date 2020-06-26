@@ -35,3 +35,4 @@ C:\prjS\_xamarinPrjs\xamAppGetDataFromWebApi\AppGetDataFromWebApi\AppGetDataFrom
 C:\prjS\_xamarinPrjs\xamAppGetDataFromWebApi\AppGetDataFromWebApi\AppGetDataFromWebApi\obj\Debug\netstandard2.0\AppGetDataFromWebApi.dll
 C:\prjS\_xamarinPrjs\xamAppGetDataFromWebApi\AppGetDataFromWebApi\AppGetDataFromWebApi\obj\Debug\netstandard2.0\ref\AppGetDataFromWebApi.dll
 C:\prjS\_xamarinPrjs\xamAppGetDataFromWebApi\AppGetDataFromWebApi\AppGetDataFromWebApi\obj\Debug\netstandard2.0\AppGetDataFromWebApi.pdb
+C:\prjS\_xamarinPrjs\xamAppGetDataFromWebApi\AppGetDataFromWebApi\AppGetDataFromWebApi\obj\Debug\netstandard2.0\AppGetDataFromWebApi.csprojAssemblyReference.cache
